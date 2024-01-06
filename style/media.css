@@ -1,0 +1,28 @@
+@media (min-width: 200px ) and (max-width: 767px) {
+    .order-content{
+        border-radius: 10px 10px 0px 0px;
+    }
+    .order-map iframe {
+        border-radius: 0px 0px 10px 10px;}
+    .compani h2 {
+        font-size: 20px;
+    }
+    .nav-major>.dropdown-city>a{
+        padding: 0px;
+    }
+    .dropdown-city {
+        width: auto;
+    }
+    .addres-text p,.fast-delivery-map h4{
+        font-size: 10px;
+    }
+    .title-name-major {
+        font-size: 15px;
+    }
+    .map-adres{
+        margin: 0px;
+    }
+    .parameters .parameters-formes{
+        margin: 10px 0px;
+    }
+}
