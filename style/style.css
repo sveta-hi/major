@@ -441,6 +441,7 @@ img {
 
 }
 .text-big-button{
+    text-decoration: underline;
     color: #e89535 !important;
     white-space: normal !important;
     word-wrap: break-word;
@@ -511,7 +512,7 @@ margin-top: 20px;
 }
 .fast-delivery-content,.icon-company {
     text-align: center;
-    margin: 20px 0px;
+    margin: 20px 0px 50px 0px;
 }
 /* /fast-delivery-icon */
 /* fast-delivery-map" */
